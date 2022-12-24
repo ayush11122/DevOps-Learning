@@ -1,2 +1,2 @@
-#Terminal Command
-here are some terminal command
+# Terminal-Command
+Here are some terminal command
