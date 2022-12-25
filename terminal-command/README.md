@@ -1,5 +1,7 @@
 # Terminal-Commands
 
+    Here are some terminal command
+
 ## Directories-Commands
 
     1->echo command for 'Print screen'
@@ -45,7 +47,7 @@
 	
     4-> 'package-manager' -q 'package-name' command is to get query and get detail about a package
 
+## Downloading-packages
 
+    1->yum install 'package-name' command download all the package-name and all other packages and software use to run package-name.
 
-
-Here are some terminal command hello
